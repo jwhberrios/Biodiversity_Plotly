@@ -136,26 +136,17 @@ Plotly.newPlot("bubble", bubbleData, bubbleLayout);
    var gaugeArray = metadata.filter(metaObj => metaObj.id == sample);  
 
 
-   // Create a variable that holds the first sample in the array.
+  
  
 
    // 2. Create a variable that holds the first sample in the metadata array.
    var gaugeResult = gaugeArray[0];
 
-   // Create variables that hold the otu_ids, otu_labels, and sample_values.
 
 
    // 3. Create a variable that holds the washing frequency.
    var wfreqs = gaugeResult.wfreq;
    console.log(wfreqs)
-  
-   // Create the yticks for the bar chart.
-
-   // Use Plotly to plot the bar data and layout.
-   Plotly.newPlot();
-   
-   // Use Plotly to plot the bubble data and layout.
-   Plotly.newPlot();
   
    
    // 4. Create the trace for the gauge chart.
