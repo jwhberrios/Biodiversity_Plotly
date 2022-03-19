@@ -1,0 +1,27 @@
+
+.jumbotron h1 {
+
+    color: rgba(248, 12, 51, 0.801);
+    font-size: 55px;  
+    font-family: 'Shift', Georgia;
+    font-weight: bold;
+    text-shadow: 3px 3px rgb(7, 7, 7);
+  
+  }
+
+.jumbotron p {
+
+    color: black;
+    font-size: 26px;  
+    font-family:'Shift', Georgia; 
+    font-weight: bold;
+    text-shadow:  1px 1px rgb(7, 7, 7);
+  
+  }
+
+  body {
+    background-image: url("/images/bacteria.jpg");
+    
+  }
+
+  
