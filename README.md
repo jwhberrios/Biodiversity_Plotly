@@ -1,5 +1,5 @@
 # Navel Biodiversity Visualization Using Plotly
-### Note: Website with itneractive charts to view bacteria profile of volunteers can be accessed by clicking [here.]( https://jwhberrios.github.io/Navel_Biodiversity_Plotly/)
+### Note: Website with interactive charts to view bacteria profile of volunteers can be accessed by clicking [here.]( https://jwhberrios.github.io/Navel_Biodiversity_Plotly/)
 
 #### Purpose of Analysis
 The purpose of this project was to create an interactive website to visualize data of the bacteria profile sampled from the navel of study participants. This bacteria profile could potentially be used by food companies to generate beef flavor for their beef substitute food product.
