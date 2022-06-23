@@ -8,9 +8,11 @@ The purpose of this project was to create an interactive website to visualize da
 
 The following information is presented when a test subject's ID number is chose by clicking on it in the pulldown menu:
 1. A gauge graph to reflect how often the navel was washed per week.
-2. 
-3. The top 10 bacteria found is presented in a bar graph. 
-4. Bacteria cultures per sample presented in a bubble graph. The size of the bubble reflects the quantity of the specific bacteria culture.
+![gauge graph](https://github.com/jwhberrios/Navel_Biodiversity_Plotly/blob/main/images/Gauge%20meter.png)
+2. The top 10 bacteria found is presented in a bar graph. 
+![bar graph](https://github.com/jwhberrios/Navel_Biodiversity_Plotly/blob/main/images/Topbacterias_found.png)
+3. Bacteria cultures per sample presented in a bubble graph. The size of the bubble reflects the quantity of the specific bacteria culture.
+![Culture sample](https://github.com/jwhberrios/Navel_Biodiversity_Plotly/blob/main/images/Culture_sample.png)
 
 ##### Resources
 Plotly was used to create the visual charts.
